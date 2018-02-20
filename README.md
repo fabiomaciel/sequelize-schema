@@ -9,7 +9,7 @@ Postgresql
 
 ## Built With
 
-* [Nodejs](https://nodejs.org) - The web framework used
-* [Sequelize](http://docs.sequelizejs.com/) - Dependency Management
-* [Express](https://expressjs.com) - Used to generate RSS Feeds
+* [Nodejs](https://nodejs.org) - Platform used
+* [Sequelize](http://docs.sequelizejs.com/) - Object Relational Mapping framework used
+* [Express](https://expressjs.com) - The web framework used
 
